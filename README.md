@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhur</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software developer. </h3>
 <img align=right width=500px alt="gif" src="https://hackernoon.com/images/f2px36fy.gif">
 
 - 🌱 I’m currently learning **Django**
