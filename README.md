@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer. </h3>
 <img align=right width=500px alt="gif" src="https://hackernoon.com/images/f2px36fy.gif">
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **madhurp090@gmail.com**
 
